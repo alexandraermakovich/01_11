@@ -1,0 +1,48 @@
+#: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
+msgid "Had to lose my way to know which road to take."
+msgstr ""
+
+#: /views/partials/format-visuals/websites.j2:10
+msgid "Yesterday all my troubles seemed so far away, now it looks as though they’re here to stay. "
+msgstr ""
+
+#: /views/partials/format-visuals/websites.j2:7
+msgid "Don’t ever let anyone tell you, You ain’t beautiful."
+msgstr ""
+
+#: /views/partials/footer.j2:74
+msgid "I’m not a piece of cake for you to just discard while you walk away with the frosting on my heart."
+msgstr ""
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
+msgid "Never been the type to let someone see right through."
+msgstr ""
+
+#: /views/partials/footer.j2:71
+msgid "I got this feeling inside my bones. It goes electric, wavey when I turn it on."
+msgstr ""
+
+#: /views/partials/footer.j2:72
+msgid "Leave behind your heartache, cast away. Just another product of today. Rather be the hunter than the prey."
+msgstr ""
+
+#: /views/partials/banner.j2:5
+msgid "Hey! I’ma keep running cause a winner don’t quit on themselves. "
+msgstr ""
+
+#: /views/partials/footer.j2:43
+msgid "We are the champions, my friends And we’ll keep on fighting…till the end."
+msgstr ""
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
+msgid "So you can keep knocking, But won’t knock me down."
+msgstr ""
+
+#: /content/amp-dev/support/faq/overview.md
+msgid "And if there’s love in this life, there’s no obstacle, that can’t be defeated."
+msgstr ""
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
+msgid "If it doesn`t break your heart, it isn’t love."
+msgstr ""
+
