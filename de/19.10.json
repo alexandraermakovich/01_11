@@ -1,0 +1,45 @@
+{
+  "earth": [
+    {
+      "name": "Mechanics",
+      "sections": [
+        {
+          "continent": "Европа",
+          "city": "London",
+          "country": "Францииия",
+          "capital": "ариж",
+          "bool": "wahr"
+        },
+        {
+          "continent": "ия",
+          "country": "итай",
+          "capital": "екин",
+          "bool": "falsch"
+        },
+        {
+          "continent": "рика",
+          "country": "ЮАР",
+          "capital": "ейптаун"
+        }
+      ]
+    },
+    {
+      "continent": "мерика",
+      "sections": [
+        {
+          "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0"
+        }
+      ]
+    },
+    {
+      "name": "Elektrizität",
+      "sections": [
+        {
+          "continent": "ная мерика",
+          "country": "разилия",
+          "capital": "разилиа"
+        }
+      ]
+    }
+  ]
+}
