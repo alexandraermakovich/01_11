@@ -1,0 +1,28 @@
+{
+  "earth": [
+    {
+      "continent": "ропа",
+      "country": "ранция",
+      "capital": "ариж"
+    },
+    {
+      "continent": "ия",
+      "capital": "екин"
+    },
+    {
+      "continent": "рика",
+      "country": "??",
+      "capital": "ейптаун"
+    },
+    {
+      "continent": "еверная Америка",
+      "country": "??",
+      "capital": "ашингтон"
+    },
+    {
+      "continent": "ная Америка",
+      "country": "разилия",
+      "capital": "разилиа"
+    }
+  ]
+}
