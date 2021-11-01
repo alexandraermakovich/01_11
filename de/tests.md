@@ -1,6 +1,4 @@
-# Best Practices für TensorFlow-Tests
 
-Dies sind die empfohlenen Vorgehensweisen zum Testen von Code im [TensorFlow-Repository](https://github.com/tensorflow/tensorflow) .
 
 ## Bevor Sie beginnen
 
