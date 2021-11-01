@@ -1,0 +1,28 @@
+{
+  "earth": [
+    {
+      "continent": "Европа",
+      "country": "Франция",
+      "capital": "Париж"
+    },
+    {
+      "continent": "Азия",
+      "capital": "Пекин"
+    },
+    {
+      "continent": "Африка",
+      "country": "ЮАР",
+      "capital": "Кейптаун"
+    },
+    {
+      "continent": "Северная Америка",
+      "country": "США",
+      "capital": "Вашингтон"
+    },
+    {
+      "continent": "Южная Америка",
+      "country": "Бразилия",
+      "capital": "Бразилиа"
+    }
+  ]
+}
