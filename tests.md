@@ -11,10 +11,7 @@ Before you contribute source code to a TensorFlow project, please review the
 All code contributors are required to sign a
 [Contributor License Agreement](https://cla.developers.google.com/clas) (CLA).
 
-## Status
 
-passed
-retest
 
 ## General principles
 
