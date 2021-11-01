@@ -22,6 +22,11 @@ Das Ändern Ihrer Build-Abhängigkeit zum Weglassen der vollständigen TF-Ziele 
 
 Für jeden Code, den Sie schreiben, sollten Sie auch die Komponententests schreiben. Wenn Sie eine neue Datei `foo.py` schreiben, sollten Sie deren Unit-Tests in `foo_test.py` und innerhalb derselben Änderung einreichen. Streben Sie eine inkrementelle Testabdeckung von &gt;90 % für Ihren gesamten Code an.
 
+## QIWI
+
+FUUU
+BEEE
+
 ### Vermeiden Sie die Verwendung von nativen Bazel-Testregeln in TF
 
 TF hat viele Feinheiten beim Ausführen von Tests. Wir haben daran gearbeitet, all diese Komplexitäten in unseren Bazel-Makros zu verbergen. Um sich nicht mit diesen befassen zu müssen, verwenden Sie die folgenden anstelle der nativen Testregeln. Beachten Sie, dass all dies in `tensorflow/tensorflow.bzl` definiert ist. Verwenden Sie für CC-Tests `tf_cc_test` , `tf_gpu_cc_test` , `tf_gpu_only_cc_test` . `tf_py_test` für Python-Tests tf_py_test oder `gpu_py_test` . Wenn Sie etwas benötigen, das der nativen `py_test` Regel sehr nahe kommt, verwenden Sie stattdessen die in tensorflow.bzl definierte. Sie müssen nur die folgende Zeile am Anfang der BUILD-Datei hinzufügen: `load(“tensorflow/tensorflow.bzl”, “py_test”)`
