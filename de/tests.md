@@ -6,10 +6,6 @@ Dies sind die empfohlenen Vorgehensweisen zum Testen von Code im [TensorFlow-Rep
 
 Bevor Sie Quellcode zu einem TensorFlow-Projekt beitragen, überprüfen Sie bitte die `CONTRIBUTING.md` im GitHub-Repository des Projekts. (Siehe beispielsweise die [Datei CONTRIBUTING.md für das Kernrepo von TensorFlow](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md) .) Alle Code-Mitwirkenden müssen eine [Contributor License Agreement](https://cla.developers.google.com/clas) (CLA) unterzeichnen.
 
-## Status
-
-passed retest
-
 ## Allgemeine Grundsätze
 
 ### Hängt nur davon ab, was du in deinen BUILD-Regeln verwendest
@@ -21,11 +17,6 @@ Das Ändern Ihrer Build-Abhängigkeit zum Weglassen der vollständigen TF-Ziele 
 ### Jeder Code sollte Unit-Tests haben
 
 Für jeden Code, den Sie schreiben, sollten Sie auch die Komponententests schreiben. Wenn Sie eine neue Datei `foo.py` schreiben, sollten Sie deren Unit-Tests in `foo_test.py` und innerhalb derselben Änderung einreichen. Streben Sie eine inkrementelle Testabdeckung von &gt;90 % für Ihren gesamten Code an.
-
-## QIWI
-
-FUUU
-BEEE
 
 ### Vermeiden Sie die Verwendung von nativen Bazel-Testregeln in TF
 
