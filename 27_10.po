@@ -45,4 +45,3 @@ msgstr ""
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "If it doesn`t break your heart, it isn’t love."
 msgstr ""
-
