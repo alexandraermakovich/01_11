@@ -1,0 +1,30 @@
+{
+  "earth": [
+    {
+      "name": "Mechanics",
+      "sections": [
+        {
+          "continent": "Европа",
+          "city": "London",
+          "country": "Францииия"
+        },
+        {
+        },
+        {
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+        }
+      ]
+    }
+  ]
+}
