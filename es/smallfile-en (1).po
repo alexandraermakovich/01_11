@@ -4,45 +4,45 @@ msgstr "A screenshot of a website using AMP"
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
-msgstr ""
+msgstr "A screenshot showing amp-sidebar."
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
-msgstr ""
+msgstr "A website screenshot."
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
-msgstr ""
+msgstr "AMP Brand Materials"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
-msgstr ""
+msgstr "AMP Caches & CORS"
 
 #: /views/partials/footer.j2:71
 msgid "AMP Conf 2020"
-msgstr ""
+msgstr "AMP Conf 2020"
 
 #: /views/partials/footer.j2:72
 msgid "AMP Contributor Summit 2019"
-msgstr ""
+msgstr "AMP Contributor Summit 2019"
 
 #: /views/partials/banner.j2:5
 msgid "AMP Contributor Summit 2019 Applications Now Open"
-msgstr ""
+msgstr "AMP Contributor Summit 2019 Applications Now Open"
 
 #: /views/partials/footer.j2:43
 msgid "AMP Framework"
-msgstr ""
+msgstr "AMP Framework"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
 msgid "AMP HTML Specification"
-msgstr ""
+msgstr "AMP HTML Specification"
 
 #: /content/amp-dev/support/faq/overview.md
 msgid "AMP Overview"
-msgstr ""
+msgstr "AMP Overview"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "AMP for Email Specification"
-msgstr ""
+msgstr "AMP for Email Specification"
 
