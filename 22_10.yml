@@ -3,6 +3,7 @@
 university:
     faculty: [law, economics]
     law:
+       - fff
        - international
     economics:
        - management
