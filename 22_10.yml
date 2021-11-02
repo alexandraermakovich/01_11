@@ -5,6 +5,5 @@ university:
     law:
        - international
     economics:
-       - marketing
        - management
     faculty: { law: [national, international], economics: [marketing, management]}
