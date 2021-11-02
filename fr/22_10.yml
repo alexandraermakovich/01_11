@@ -1,0 +1,17 @@
+---
+university:
+  faculty:
+    law:
+    - nationale
+    - international
+    economics:
+    - commercialisation
+    - management
+  law:
+  - nationale
+  - international
+  - français
+  - Anglais
+  economics:
+  - commercialisation
+  - la gestion
