@@ -14,10 +14,6 @@ msgstr ""
 msgid "A website screenshot."
 msgstr ""
 
-#: /views/partials/format-visuals/websites.j2:7
-msgid "A website page."
-msgstr ""
-
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
 msgstr ""
