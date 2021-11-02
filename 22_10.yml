@@ -3,7 +3,7 @@
 university:
     faculty: [law, economics]
     law:
-       - national
+       
        - international
     economics:
        - marketing
