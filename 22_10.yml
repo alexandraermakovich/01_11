@@ -5,6 +5,8 @@ university:
     law:
        - national
        - international
+       - french
+       - english
     economics:
        - marketing
        - management
